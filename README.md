@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Segeo-UI&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Chu+Thành+Nhân;belongs+to+LTCT" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Segeo-UI&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Chu+Thành+Nhân;" />
 
 
 
