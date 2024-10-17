@@ -23,9 +23,9 @@ Github Stat
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align="center">
-    <img alt="nhanu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imnotnahn&show_icons=true&theme=nord&rank_icon=default&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="192px"/>
-    <img alt="nhanuit02's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotnahn&layout=compact&theme=nord&hide_border=true&border_radius=6" height="192px"/>
-    <img alt="nhanuit02's Streak Stats" src="https://streak-stats.demolab.com/?user=nhanuit02&count_private=false&theme=nord&border_radius=10&hide_border=true" height="192px"/>
+    <img alt="imnotnahn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=imnotnahn&show_icons=true&theme=nord&rank_icon=default&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="192px"/>
+    <img alt="imnotnahn's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnotnahn&layout=compact&theme=nord&hide_border=true&border_radius=6" height="192px"/>
+    <img alt="imnotnahn's Streak Stats" src="https://streak-stats.demolab.com/?user=imnotnahn&count_private=false&theme=nord&border_radius=10&hide_border=true" height="192px"/>
 </p>
         
 <h3>🔥 My Contribution</h3>
